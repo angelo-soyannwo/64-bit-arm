@@ -1,0 +1,6 @@
+
+
+0xF2 (convert to binary) -> 11110010 (subtract 1) -> 11110001 flip the bits -> 00001110 which is 14 so 0xF2 represnts -14
+
+
+0x83 (convert to binary) -> 01101011 (subtract 1) -> 01101010 flip the bits -> 10010101 which is 149 so 0x83 represnts -149

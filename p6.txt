@@ -1,0 +1,4 @@
+
+5.1mb X 1000 bytes/1Mb X (12 instruction/1000 bytes)
+
+approximately 55000 instructions

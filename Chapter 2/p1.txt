@@ -1,0 +1,6 @@
+
+1) 
+-79 conversion to two's complement 01001111  -> 10110000 -> 10110001
+
+-23 conversion to two's complement 00010111 -> 11101000 -> 11101001
+
